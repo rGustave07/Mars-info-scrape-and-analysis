@@ -66,4 +66,3 @@ def weather_scrape():
 
 
 # End of function definitions
-print(weather_scrape())
